@@ -1,6 +1,3 @@
-# contrast-game
-small original clicker game
-
 # Contrast
 
 Contrast is a fast-paced clicker game where players must quickly match falling balls to the correct basket color. As the game progresses, the speed increases, challenging your reflexes and precision. The game was developed in Unity with no AI assistance.
