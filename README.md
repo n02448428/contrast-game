@@ -12,9 +12,7 @@ Contrast is a fast-paced clicker game where players must quickly match falling b
 - If the ball and basket colors don’t match upon contact, the game ends.
 
 ## Installation
-1. Download/play the game from [Itch.io](https://novelfilms.itch.io/contrast).
-2. Extract the files (if applicable).
-3. Run the executable (`Contrast.exe` on Windows or equivalent for other platforms).
+- Play the game on [Itch.io](https://novelfilms.itch.io/contrast).
 
 ## Controls
 - **Mouse Click / Tap (Mobile)**: Flip the basket’s color.
